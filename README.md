@@ -26,6 +26,7 @@ Prosta gra węża napisana w Pythonie z wykorzystaniem modułu Turtle.
 
 - Aktualny wynik wyświetlany jest na górze planszy.
 - Zwiększa się za każdym razem, gdy wąż zje jedzenie.
+- Najlepszy wynik jest przechowywany
 
 ## Struktura plików
 
