@@ -58,5 +58,10 @@ class Snake:
         if self.head.heading() != UP:
             self.head.setheading(DOWN)
 
-
+    def reset(self):
+        for i in self.turtle_arr:
+            i.goto(1000,1000)
+        self.turtle_arr.clear()
+        self.create_snake()
+        self.head = self.turtle_arr[0]
 
