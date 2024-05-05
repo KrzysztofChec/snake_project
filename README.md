@@ -2,6 +2,13 @@
 
 Prosta gra węża napisana w Pythonie z wykorzystaniem modułu Turtle.
 
+
+
+
+https://github.com/KrzysztofChec/snake_project/assets/126595487/1197b890-1fbc-437b-97a6-ff50b10adbcf
+
+
+
 ## Jak grać
 
 1. Uruchom plik `snake_game.py`.
